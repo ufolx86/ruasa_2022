@@ -1,0 +1,1 @@
+import{e as n}from"/build/_shared/chunk-3YGOQTTM.js";import{d as e,e as t}from"/build/_shared/chunk-QC4FO2RC.js";t();t();function o(){return e.createElement("p",null,"No note selected. Select a note on the left, or"," ",e.createElement(n,{to:"new",className:"text-blue-500 underline"},"create a new note."))}export{o as default};

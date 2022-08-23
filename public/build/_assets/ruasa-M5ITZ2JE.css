@@ -1,0 +1,28 @@
+/* NAVIGATION */
+
+.nav-container {
+  position: absolute;
+  top: 0;
+  display: flex;
+  background: none;
+}
+
+.nav-list {
+  display: flex;
+}
+
+.nav-item {
+  
+}
+
+/* SEARCH */
+
+.container {
+  background: white;
+}
+
+/* CONTENT */
+
+.landing {
+  width: 100%;
+}

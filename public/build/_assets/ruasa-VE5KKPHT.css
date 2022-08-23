@@ -1,0 +1,29 @@
+/* NAVIGATION */
+
+.nav-container {
+  top: 0;
+  display: flex;
+  background: none;
+}
+
+.nav-list {
+  display: flex;
+}
+
+.nav-item {
+  
+}
+
+/* SEARCH */
+
+.container {
+  background: white;
+}
+
+/* CONTENT */
+
+.landing {
+  background-image: url(../images/landing);
+  height: 5rem;
+  color: red;
+}
